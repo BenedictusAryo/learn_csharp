@@ -13,8 +13,14 @@ namespace Exercise_1_Calculator
             double firstNumber = Convert.ToDouble(Console.ReadLine());
             Console.Write("Second number: ");
             double secondNumber = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine($"{firstNumber} + {secondNumber} = " + firstNumber + secondNumber);
+            double result =  AddNumber(firstNumber, secondNumber);
+            Console.WriteLine($"{firstNumber} + {secondNumber} = " + result);
 
+        }
+
+        // Add Function
+        public static double AddNumber(double firstNumber, double secondNumber){
+            return firstNumber + secondNumber;
         }
     }
 }
