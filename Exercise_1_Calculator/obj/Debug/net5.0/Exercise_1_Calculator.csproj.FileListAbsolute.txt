@@ -1,0 +1,16 @@
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\obj\Debug\net5.0\Exercise_1_Calculator.csproj.AssemblyReference.cache
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\obj\Debug\net5.0\Exercise_1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\obj\Debug\net5.0\Exercise_1_Calculator.AssemblyInfoInputs.cache
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\obj\Debug\net5.0\Exercise_1_Calculator.AssemblyInfo.cs
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\obj\Debug\net5.0\Exercise_1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\bin\Debug\net5.0\Exercise_1_Calculator.exe
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\bin\Debug\net5.0\Exercise_1_Calculator.deps.json
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\bin\Debug\net5.0\Exercise_1_Calculator.runtimeconfig.json
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\bin\Debug\net5.0\Exercise_1_Calculator.runtimeconfig.dev.json
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\bin\Debug\net5.0\Exercise_1_Calculator.dll
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\bin\Debug\net5.0\ref\Exercise_1_Calculator.dll
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\bin\Debug\net5.0\Exercise_1_Calculator.pdb
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\obj\Debug\net5.0\Exercise_1_Calculator.dll
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\obj\Debug\net5.0\ref\Exercise_1_Calculator.dll
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\obj\Debug\net5.0\Exercise_1_Calculator.pdb
+C:\Users\Benedict\github\learn_csharp\Exercise_1_Calculator\obj\Debug\net5.0\Exercise_1_Calculator.genruntimeconfig.cache
